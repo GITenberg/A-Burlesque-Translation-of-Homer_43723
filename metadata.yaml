@@ -1,0 +1,33 @@
+_repo: A-Burlesque-Translation-of-Homer_43723
+_version: 0.1.0
+contributor:
+  dubious_author:
+    agent_name: Grose, Francis
+    deathdate: 1791
+    gutenberg_agent_id: '1784'
+    url: http://www.gutenberg.org/2009/agents/1784
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Grose
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bridges, Thomas, active 1759-1775
+    gutenberg_agent_id: '43891'
+    url: http://www.gutenberg.org/2009/agents/43891
+description: Also attributed to Francis Grose.
+gutenberg_issued: '2013-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43723'
+  lccn: '36025994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Epic poetry, Greek -- Parodies, imitations, etc.'
+- !lcsh 'Homer -- Parodies, imitations, etc.'
+title: A Burlesque Translation of Homer
+url: http://www.gutenberg.org/ebooks/43723
